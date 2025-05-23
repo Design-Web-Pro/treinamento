@@ -1,4 +1,4 @@
-# treinamento-site-terinamento
+# treinamento-site-treinamento
 Este site é um exemplo html / css / img
 
 ## Estrutura do Projeto do Site
